@@ -8,8 +8,8 @@ number2 = input('B = ')
 print('A = {0} ve B = {1}'.format(number1,number2))
 print('A ve B sayılarına vermiş olduğunuz değerler değiştiriliyor...')
 
-#Burada bir adet tanım belirlemelisiniz.
-#Belirlemiş olduğunuz tanım ile swap olayını gerçekleştireceğiz.
+#Burada bir adet tanım belirlemeliyiz.
+#Belirlemiş olduğumuz tanım ile swap olayını gerçekleştireceğiz.
 
 tarik = number1
 number1 = number2
